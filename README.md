@@ -1,5 +1,5 @@
 # ShareMemoryBoost
-Using boost to make Share Memory
+Using boost to make Shared Memory
 
 ### Boost Lib
 #### https://www.boost.org/
